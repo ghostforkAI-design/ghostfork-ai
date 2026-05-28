@@ -83,7 +83,7 @@ Utility:
 
 ## Links
 
-Twitter/X: coming soon
+Twitter/X: https://x.com/ghostsignalAI?s=20
 Website: coming soon
 Flaunch: coming soon
 
