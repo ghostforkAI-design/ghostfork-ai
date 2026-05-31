@@ -2,93 +2,114 @@
 
 > Fork the trend. Spawn the signal.
 
-GHOSTFORK AI is an experimental SocialFi + AI utility project focused on:
-- AI signal generation
-- trend tracking
-- auto social posting
-- GitHub activity monitoring
-- token narrative automation
+GHOSTFORK AI is an experimental intelligence platform designed to monitor repositories, forks, commits, and developer activity to detect emerging AI narratives before they become mainstream.
 
-Built for the 2026 AI token era.
-
----
-
-## Features
-
-- AI trend scanner
-- GitHub/GitLab repo tracker
-- Twitter/X auto-post generator
-- Token narrative engine
-- AI launch monitoring
-- Social signal dashboard
+Built for the next generation of AI ecosystems.
 
 ---
 
 ## Vision
 
-Most AI tokens die because they have:
-- no narrative
-- no ecosystem
-- no attention loop
+The next major AI trends will not start on charts.
 
-GHOSTFORK AI creates an automated attention engine powered by:
-- AI
-- social momentum
-- dev activity
-- viral token narratives
+They will start inside repositories.
+
+Hidden projects.
+Silent commits.
+Unexpected forks.
+Developer activity.
+
+GHOSTFORK exists to transform raw Git activity into actionable intelligence.
 
 ---
 
-## Stack
+## Core Features
 
-- Node.js
-- TypeScript
-- OpenAI API
-- Twitter/X API
-- GitHub API
+### Repo Intelligence
+
+Monitor repository growth and development activity across GitHub and GitLab.
+
+### Fork Tracking
+
+Detect unusual fork behavior and identify emerging projects gaining attention.
+
+### Developer Activity Scanner
+
+Analyze commit frequency, contributor growth, and repository momentum.
+
+### AI Narrative Detection
+
+Discover early AI trends through open-source development signals.
+
+### Signal Dashboard
+
+Visualize repository intelligence and trend indicators in a single interface.
 
 ---
 
 ## Roadmap
 
 ### Phase 1
-- Launch branding
-- GitHub setup
-- AI posting bot
-- Twitter growth
+
+- Repo Intelligence Engine
+- Fork Tracking System
+- Developer Activity Scanner
+- AI Signal Framework
+- Dashboard Prototype
 
 ### Phase 2
-- AI signal dashboard
-- trend detection
-- token analytics
+
+- Narrative Detection Engine
+- Advanced Trend Analytics
+- Signal Scoring System
+- Multi-Repository Monitoring
+- Public Dashboard Release
 
 ### Phase 3
-- community tools
-- launch integrations
-- autonomous AI agent
+
+- Autonomous AI Agent
+- Community Intelligence Layer
+- Ecosystem Integrations
+- Premium Signal Network
 
 ---
 
 ## Token
 
-Ticker: `$GHOST`
+Ticker: **$GHOST**
 
-Utility:
-- premium AI signals
-- automation tools
-- dashboard access
-- future ecosystem features
+The $GHOST token is intended to provide access to future ecosystem features including:
+
+- Premium AI Signals
+- Advanced Analytics
+- Dashboard Access
+- Future Governance Participation
+
+---
+
+## Status
+
+Currently in active development.
+
+Building in public.
 
 ---
 
 ## Links
 
-Twitter/X: https://x.com/ghostsignalAI?s=20
-Website: https://ghostfork.gitlawb.app/
-Flaunch: coming soon
+Twitter/X:
+https://x.com/ghostsignalAI
+
+Website:
+https://ghostfork.gitlawb.app
+
+GitHub:
+https://github.com/ghostforkAI-design/ghostfork-ai
 
 ---
 
-## Motto
+GHOSTFORK AI
 
-"Fork the hype. Control the narrative."
+Monitor the forks.
+Track the signals.
+Detect the narrative.
