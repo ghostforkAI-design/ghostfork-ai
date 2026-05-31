@@ -4,10 +4,9 @@ The GHOST token will power the GHOSTFORK ecosystem.
 
 ## Utilities
 
-- Premium AI Signals
-- Advanced Analytics
+- Dashboard Access
+- Premium Signals
+- Automation Tools
 - Governance
-- Early Access Features
-- Community Rewards
 
 More details coming soon.
